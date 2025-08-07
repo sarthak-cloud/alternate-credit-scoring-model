@@ -20,7 +20,7 @@ Since public alternative credit datasets are limited, we simulate realistic appl
 - Monthly cash inflow and outflow
 - Employment status (e.g., employed, self-employed, unemployed)
 
-> 📁 Generated in `data/simulated_credit_data.csv` using `simulate_data.py`
+> 📁 Generated in `data/simulated_credit_data.csv` using `simulate_data.py`,
 
 ---
 
